@@ -86,7 +86,19 @@ software development, Artificial Intelligence and Web Development.
 ---
 
 <div align="center">
+## 🌐 Connect With Me
 
+<div align="center">
+
+<a href="https://github.com/raushan628721-lang">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/raushan-kumar/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
 ### ⭐ Thanks for visiting my profile!
 
 </div>
